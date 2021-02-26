@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Upsurge Scenes/LevelComplete.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
